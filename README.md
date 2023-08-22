@@ -15,13 +15,13 @@ You can install the required Googletrans library using the following command:
 
 pip install googletrans==4.0.0-rc1
 
-##Running the Notebook
+## Running the Notebook
 
 Clone this repository to your local machine or download the notebook file.
 Open the Jupyter Notebook in your preferred environment.
 Execute the code cells in the notebook to run the language translation function.
 
-##Code Overview
+## Code Overview
 The notebook contains the following sections:
 
 Importing Required Libraries: Importing the necessary libraries, including Googletrans and its submodules.
@@ -30,14 +30,15 @@ Translation Function: Defining the translate_text function, which utilizes the G
 
 Main Function: Implementing a main function that provides a user-friendly interface for language translation. The user is prompted to provide the source language code, target language code, and the text to translate.
 
-##Usage
+## Usage
 
 Run the Jupyter Notebook code cells.
 Follow the prompts to enter the source language code, target language code, and the text to translate.
 The translated text will be displayed.
 
-##Supported Languages
-The following languages are supported:
+## Supported Languages
+
+### The following languages are supported:
 
 English: en
 Spanish: es
@@ -47,5 +48,5 @@ Hindi: hi
 Chinese: zh-CN
 Please use the respective language codes when providing input.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create a pull request or submit an issue in this repository.
