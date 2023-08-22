@@ -40,12 +40,13 @@ The translated text will be displayed.
 
 ### The following languages are supported:
 
-English: en
-Spanish: es
-French: fr
-German: de
-Hindi: hi
+English: en ,
+Spanish: es ,
+French: fr ,
+German: de ,
+Hindi: hi ,
 Chinese: zh-CN
+
 Please use the respective language codes when providing input.
 
 ## Contributing
